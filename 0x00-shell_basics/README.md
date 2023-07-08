@@ -12,3 +12,4 @@ Delete the directory my_first_directory that is in the /tmp directory
 List all files including hidden ones in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 Print the type of file named /tmp/iamafile
 Create a symbolic link to /bin/ls, named __ls__
+Copy all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
