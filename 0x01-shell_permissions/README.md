@@ -9,3 +9,4 @@ The script in 1-who_am_i prints the effective username of the current user
 7-everybody script adds execution permission to the owner, the group owner and the other users, to the file hello
 8-James_Bond gives no permission to owner and group but grants other users all permissions
 9-John_Doe script change permissions to -rwxr-x-wx for file hello
+10-mirror_permissions sets the mode of the file hello the same as olleh’s mode
