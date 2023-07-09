@@ -8,3 +8,4 @@ The script in 1-who_am_i prints the effective username of the current user
 6-multiple_permissions script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 7-everybody script adds execution permission to the owner, the group owner and the other users, to the file hello
 8-James_Bond gives no permission to owner and group but grants other users all permissions
+9-John_Doe script change permissions to -rwxr-x-wx for file hello
