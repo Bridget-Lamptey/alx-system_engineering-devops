@@ -10,3 +10,4 @@ The script in 1-who_am_i prints the effective username of the current user
 8-James_Bond gives no permission to owner and group but grants other users all permissions
 9-John_Doe script change permissions to -rwxr-x-wx for file hello
 10-mirror_permissions sets the mode of the file hello the same as olleh’s mode
+11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
