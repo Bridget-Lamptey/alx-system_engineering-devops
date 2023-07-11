@@ -3,4 +3,5 @@
 * *echo 'Hello, World* prints “Hello, World” to the standard output.
 * *echo "\"(Ôo)'"* displays confused smiley, "(Ôo)'.
 * *cat /etc/passwd* displays the content of the /etc/passwd file.
+* *cat /etc/passwd /etc/hosts* displays the content of /etc/passwd and /etc/hosts.
 
