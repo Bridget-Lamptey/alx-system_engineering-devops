@@ -17,3 +17,6 @@
 * ```find ./* -type d | wc -l``` counts the number of directories and sub-directories in the current directory
 
 * ```ls -t | head``` displays the 10 newest files in the current directory, one file per line, sorted from newest to oldest.
+
+* ```sort | uniq -u``` takes a list of words as input and prints only words that appear exactly once, one line, one word, in sorted format.
+
