@@ -20,3 +20,6 @@
 
 * ```sort | uniq -u``` takes a list of words as input and prints only words that appear exactly once, one line, one word, in sorted format.
 
+* ```grep -e root /etc/passwd``` displays lines containing the pattern "root" from the file /etc/passwd
+
+* ```grep -c bin /etc/passwd``` diplays the number of lines that contain the pattern “bin” in the file /etc/passwd
